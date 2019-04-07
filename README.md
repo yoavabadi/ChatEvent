@@ -2,8 +2,6 @@
 
 ChatEvent lets you to open an event oriented chat, that will end in the end of the event.
 
-**Notice**: Please use **dartmft** - I minified the files, so I can manage the 5kb limit for this app.
-
 **Notice**: Please watch the attached video - a demo pass through this app: [video](https://youtu.be/RNYnCfriXrw)
 
 ## My Personal Challenge:
